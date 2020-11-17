@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\gupao\架构师资料\spring\02.Spring手写实战\01.用30个类手写Spring V2.0版本之顶层设计IOC与DI\源码笔记\leetcode\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
